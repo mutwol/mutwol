@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cyrus Mutwol](mutwol.png?raw=true "Cyrus Mutwol")
-
 <!-- 1. Mentorship
 2. Contribute more to open source -->
 
